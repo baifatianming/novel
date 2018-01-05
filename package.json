@@ -1,0 +1,28 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "project",
+  "author": "1",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "async": "^2.5.0",
+    "cheerio": "^1.0.0-rc.2",
+    "iconv-lite": "^0.4.19",
+    "jquery": "^3.2.1",
+    "request": "^2.83.0",
+    "single-line-log": "^1.1.2"
+  },
+  "engines": {
+    "node": ">= 4.0.0",
+    "npm": ">= 3.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 8"
+  ]
+}
